@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! 🙌
+I'm Michaela, a Comp-Sci uni student passionate about Game Development and creative tech!
+
+🌸 About Me in 30 secs 🌸
+- 💻 2nd year Comp Sci student with a specialization in Game Development
+- 📈 Special interest in stocks and finance
+- 🎨 Always creating, or building something. Self-taught Python, JavaScript, React, Blender
+- 📝 I LOVE using Trello and Miro to plan projects
 
 <!--
 **IrisFrost03/IrisFrost03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
