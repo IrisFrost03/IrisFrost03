@@ -1,7 +1,7 @@
 ## Hi there! 🙌
 I'm Michaela, a Comp-Sci uni student passionate about Game Development and creative tech!
 
-🌸 About Me in 30 secs 🌸
+###🌸 About Me in 30 secs 🌸
 - 💻 2nd year Comp Sci student with a specialization in Game Development
 - 📈 Special interest in stocks and finance
 - 🎨 Always creating, or building something. Self-taught Python, JavaScript, React, Blender
