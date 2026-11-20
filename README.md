@@ -3,7 +3,7 @@ I'm Michaela, a Comp-Sci uni student passionate about Game Development and creat
 
 ### 🌸 About Me in 30 Seconds 🌸
 - 💻 2nd year Comp Sci student with a specialization in Game Development
-- 📈 Special interest in stocks and finance
+- 📈 Special interest in the financial markets
 - 🎨 Always creating, or building something. Self-taught Python, JavaScript, React, Blender
 - 📝 I LOVE using Trello and Miro to plan projects
 
